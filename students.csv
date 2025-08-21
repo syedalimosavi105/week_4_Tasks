@@ -1,0 +1,6 @@
+id,name,math,physics,chemistry,english
+S001,Aisha,85,78,92,88
+S002,Omar, 90,absent,85,82
+S003,Sara,78,81,NaN,79
+S004,Ali,92,88,91,not available
+S005,Hassan, ,75,89,85
